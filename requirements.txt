@@ -1,0 +1,13 @@
+pyspark
+streamlit
+pandas
+python=3.9
+numpy
+matplotlib
+scikit-learn
+jupyterlab
+notebook
+ipywidgets
+seaborn
+scipy
+requests

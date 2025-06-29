@@ -1,0 +1,20 @@
+name: drug-predict-env
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - notebook
+  - ipywidgets
+  - seaborn
+  - scipy
+  - requests
+  - pip
+  - pip:
+      - requirements.txt
